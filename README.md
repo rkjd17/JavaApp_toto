@@ -1,1 +1,1 @@
-JavaApp_toto
+JavaApp-Toto
